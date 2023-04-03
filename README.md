@@ -9,4 +9,4 @@
 -  Currently studing at  [Microverse](https://www.microverse.org) 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booze33&layout=compact&langs_count=8)](https://github.com/Booze33/github-readme-stats)
-<a><img  width="40%" height="130px" src="https://github-readme-stats.vercel.app/api?username=Booze33&show_icons=true&theme=gruvbox&title_color=eff6a3&text_color=c3ce9c&bg_color=125965&hide_border=true" alt="Booze33 stats card" /></a>
+<a><img  width="45%" height="135px" src="https://github-readme-stats.vercel.app/api?username=Booze33&show_icons=true&theme=gruvbox&title_color=eff6a3&text_color=c3ce9c&bg_color=125965&hide_border=true" alt="Booze33 stats card" /></a>

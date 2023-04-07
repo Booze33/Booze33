@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Tebe Tisloh
+### Hi there 👋 I am Tebe Tisloh and I am a....
 
 ## SOFTWARE ENGINNER  
 
@@ -7,6 +7,7 @@
 **✨ MICROVERSE ✨** is a software development program that uses pair-programming and project building to teach.
 
 - 🔭 I’m a Software Engineer  💻
+- I am from Plateau state, Nigeria.
 - 📫 How to reach me: <a href="mailto:ttisloh@gmail.com.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="25" alt="Email"></a>
 - I am able to work on time and submit my project before the time deadline
 -  I love creating and fixing things.

@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Tebe Tisloh and I am a....
 
-## SOFTWARE ENGINNER  
+## SOFTWARE Developer 
 
-### I am currently studing at [Microverse](https://www.microverse.org) 💻.
+### I am open to new opportunities. I am a student at [Microverse](https://www.microverse.org) 💻.
 
 **✨ MICROVERSE ✨** is a software development program that uses pair-programming and project building to teach.
 
@@ -16,3 +16,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booze33&layout=compact&langs_count=8)](https://github.com/Booze33/github-readme-stats)
 <a><img  width="45%" height="141px" src="https://github-readme-stats.vercel.app/api?username=Booze33&show_icons=true&theme=gruvbox&title_color=eff6a3&text_color=c3ce9c&bg_color=125965&hide_border=true" alt="Booze33 stats card" /></a>
+
+<p align="center"> 
+  <h2 align="center">Visitors count</h2>
+</p>
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/Booze33/count.svg" />
+</p>

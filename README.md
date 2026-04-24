@@ -1,46 +1,72 @@
-### Hi there 👋 I am Tebe Tisloh and I am a.... 
-<h3 align="center" > Glad to see you here ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>  
+<div align="center">
 
-## SOFTWARE Developer 
+# Tebe Tisloh
+### Full-Stack Developer · React · JavaScript · Ruby on Rails
 
-### I am open to new opportunities. I am a student at [Microverse](https://www.microverse.org) 💻.
+*I build fast, clean, and functional web applications — from UI to database.*
 
-**✨ MICROVERSE ✨** is a software development program that uses pair-programming and project building to teach.
+[![Email](https://img.shields.io/badge/ttisloh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ttisloh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
-- 🔭 I’m a Software Engineer  💻
-- I am from Plateau state, Nigeria.
-- 📫 How to reach me: <a href="mailto:ttisloh@gmail.com.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="25" alt="Email"></a>
-- I am able to work on time and submit my project before the time deadline
--  I love creating and fixing things.
--  I thrive in a collaborative environment.
--  Contact me to know more
+</div>
 
-  <p align="center">
- <code> <img height="40" align="center" src="assets/c.svg" alt="c"/></code>
-  <code><img height="40" align="center" src="assets/html.svg" alt="html"/></code>
-  <code><img height="40" align="center" src="assets/css.svg" alt="Terminal"/></code>
-  <code><img height="40" align="center" src="assets/javascript.svg" alt="Terminal"/></code>
- <code> <img height="40" align="center" src="assets/react.svg" alt="react"/></code>
-  <code><img height="40" align="center" src="assets/vscode.svg" alt="vscode"/></code>
-  <code><img height="40" align="center" src="assets/git.svg" alt="git"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-</p>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booze33&layout=compact&langs_count=8)](https://github.com/Booze33/github-readme-stats)
-<a><img  width="45%" height="141px" src="https://github-readme-stats.vercel.app/api?username=Booze33&show_icons=true&theme=gruvbox&title_color=eff6a3&text_color=c3ce9c&bg_color=125965&hide_border=true" alt="Booze33 stats card" /></a>
+## What I Do
 
-<p align="center"> 
-  <h2 align="center">Visitors count</h2>
-</p>
-<p align = "center">
-  <img src="https://profile-counter.glitch.me/Booze33/count.svg" />
-</p>
+I specialize in building **web applications** that are maintainable, responsive, and actually work under pressure. My focus is on the full cycle — from a clean React frontend to a structured Rails or Node backend — with real attention to code quality, not just shipping fast.
+
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Redux, Webpack
+- **Backend:** Ruby on Rails, Node.js, REST APIs, PostgreSQL, SQL
+- **Tools:** Git, VS Code, npm, JSON
+
+---
+
+## Featured Projects
+
+> ⚠️ *Replace these with your 3 best real projects. If you don't have 3, build them this week. A recruiter who finds no projects leaves in 10 seconds.*
+
+### 🔹 [Project Name](https://github.com/Booze33/project-repo)
+**What it does:** One sentence — what problem does it solve and for who?  
+**Stack:** React · Rails · PostgreSQL  
+**Why it matters:** What decision did you make technically that you're proud of?
+
+---
+
+### 🔹 [Project Name](https://github.com/Booze33/project-repo)
+**What it does:** One sentence — what problem does it solve and for who?  
+**Stack:** JavaScript · Node.js · SQL  
+**Why it matters:** What decision did you make technically that you're proud of?
+
+---
+
+### 🔹 [Project Name](https://github.com/Booze33/project-repo)
+**What it does:** One sentence — what problem does it solve and for who?  
+**Stack:** React · CSS · REST API  
+**Why it matters:** What decision did you make technically that you're proud of?
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Booze33&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Booze33&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" />
+
+</div>
+
+---
+
+## Currently
+
+- 🛠 Available for **freelance projects and contract work** — short tasks to full builds
+- 📌 Focused on deepening backend architecture and API design
+- 📬 Best way to reach me: [ttisloh@gmail.com](mailto:ttisloh@gmail.com)
+
+---
+
+<div align="center">
+<sub>If you have a problem that needs a developer — <a href="mailto:ttisloh@gmail.com">let's talk.</a></sub>
+</div>

@@ -6,8 +6,8 @@
 *I build fast, clean, and functional web applications — from UI to database.*
 
 [![Email](https://img.shields.io/badge/ttisloh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ttisloh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebe-tisloh-847956225/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tebe-tisloh.vercel.app/)
 
 </div>
 
@@ -24,8 +24,6 @@ I specialize in building **web applications** that are maintainable, responsive,
 ---
 
 ## Featured Projects
-
-> ⚠️ *Replace these with your 3 best real projects. If you don't have 3, build them this week. A recruiter who finds no projects leaves in 10 seconds.*
 
 ### 🔹 [Project Name](https://github.com/Booze33/project-repo)
 **What it does:** One sentence — what problem does it solve and for who?  
